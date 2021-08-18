@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Nate Argaw. I live in Columbia, South Carolina. I love to Code. 
+
+🔭 I’m currently working on multiple Three.js Projects.
+
+🌱 I’m currently learning to write GLSL code. That stuff is crazy hard for me but it is so cool.
+
+😄 I’m looking to collaborate on anything 3D Web Development. 
+
+📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
+
+⚡ Fun fact: I love tofu and I can not lie. 
+
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
