@@ -10,7 +10,7 @@ My name is Nate Argaw. I live in Columbia, South Carolina. I love to Code.
 
 📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
 
-⚡ Fun fact: I love tofu and I can not lie. 
+⚡ Fun fact: I love tofu and I cannot lie. 
 
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
