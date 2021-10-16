@@ -4,7 +4,7 @@ My name is Nate Argaw. I live in Columbia, South Carolina. I use code to create 
 
 🔭 I’m currently working on projects utilizing Three.js.
 
-🌱 I’m currently learning to write GLSL code. That stuff is crazy hard for me but it is so cool.
+🌱 I’m currently learning to write GLSL code. 
 
 😄 I’m looking to collaborate on anything 3D Web Development. 
 
