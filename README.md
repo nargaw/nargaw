@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nate Argaw. I live in Columbia, South Carolina. I use code to create immersive web experiences. 
+My name is Nate Argaw. I live in Columbia, South Carolina. I create immersive web experiences. 
 
 🔭 I’m currently working on projects utilizing Three.js.
 
