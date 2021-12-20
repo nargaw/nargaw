@@ -4,7 +4,9 @@ My name is Nate Argaw. I live in Columbia, South Carolina. I create 3D interacti
 
 🔭 I’m currently working on projects utilizing Three.js.
 
-🌱 I’m currently learning to write GLSL code. 
+🌱 I’m currently learning to write GLSL code.
+
+🤔 I’m interested in and just getting started on learning Web Application security.
 
 😄 I’m looking to collaborate on anything 3D Web Development. If you think I can contribute something positive to your work, please feel free to reach out.
 
