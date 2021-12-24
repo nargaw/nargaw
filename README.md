@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Nate Argaw. I live in Columbia, South Carolina. I create 3D interactive web experiences. 
+My name is Nate. I specialize in creating 3D immersive web experiences. 
 
-🔭 I’m currently working on projects utilizing Three.js.
+🔭 I utilizing Three.js, Blender3D and GLSL.
 
-🌱 I share shaders daily as I continue to learn GLSL. Follow me @shader_everyday on twitter
+🌱 I share shaders daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
 
 😄 I’m looking to collaborate on anything 3D Web Development. 
 
