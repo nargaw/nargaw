@@ -1,6 +1,6 @@
 ### Hi there! My name is Nate. 👋
 
-🔭 I specialize in creating 3D immersive web experiences and games.
+🔭 I create 3D immersive web experiences and games.
 
 🌱 I share one shader daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
 
