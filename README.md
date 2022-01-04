@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there! My name is Nate. 👋
 
-My name is Nate. I specialize in creating 3D immersive web experiences. 
+🔭 I specialize in creating 3D immersive web experiences and games.
 
-🔭 I utilizing Three.js, Blender3D and GLSL.
-
-🌱 I share shaders daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
+🌱 I share one shader daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
 
 😄 I’m looking to collaborate on anything 3D Web Development. 
 
