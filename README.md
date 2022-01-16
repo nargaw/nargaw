@@ -6,7 +6,7 @@
 
 ⚡ I'm learning Cyber Security Basics with focus on Digital Forensics and Malware Analysis. Follow me @cyberxnate on twitter
 
-😄 I’m interested in collaborating on anything 3D Web Development.
+😄 I’m interested in collaborating in 3D web development and cyber security projects.
 
 📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
 
