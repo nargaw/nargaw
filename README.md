@@ -4,9 +4,9 @@
 
 🌱 I share one shader daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
 
-😄 I’m looking to collaborate on anything 3D Web Development.
+⚡ I'm learning Cyber Security Basics with focus on Digital Forensics and Malware Analysis. Follow me @cyberxnate on twitter
 
-⚡ Currently learning Cyber Security Basics with massive interst in Digital Forensics and Malware Analysis. Follow my cyber journey @cyberxnate on twitter
+😄 I’m interested in collaborating on anything 3D Web Development.
 
 📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
 
