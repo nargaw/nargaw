@@ -4,7 +4,7 @@
 
 🌱 I share one shader daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
 
-⚡ I'm learning Cyber Security Basics with focus on Digital Forensics and Malware Analysis. Follow me @cyberxnate on twitter
+⚡ I'm learning Cyber Security Basics. Interested in Digital Forensics and Malware Analysis. Follow me @cyberxnate on twitter
 
 😄 I’m interested in collaborating in 3D web development and cyber security projects.
 
