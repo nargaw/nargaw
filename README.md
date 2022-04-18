@@ -6,7 +6,7 @@
 
 ⚡ I'm learning Cyber Security Basics. Follow my journey @_localh0st on twitter
 
-😄 I’m interested in collaborating in 3D web development and cyber security projects.
+😄 I’m interested in collaborating in 3D web development projects.
 
 📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
 
