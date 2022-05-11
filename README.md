@@ -4,7 +4,7 @@
 
 🌱 I share one shader daily in my consistent effort to improve on GLSL. Follow me @shader_everyday on twitter
 
-⚡ I'm learning Cyber Security Basics. Follow my journey @_localh0st on twitter
+⚡ Exploring Cyber Security Basics. Follow my journey @_localh0st on twitter
 
 😄 I’m interested in collaborating in 3D web development projects.
 
