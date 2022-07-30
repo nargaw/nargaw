@@ -2,7 +2,7 @@
 
 🔭 I create 3D immersive web experiences and games
 
-🌱 I share one shader daily in my consistent effort to improve on GLSL. Follow me @shader_daily on twitter
+🌱 I share one shader daily in my consistent effort to improve on GLSL. @shader_daily on twitter
 
 ⚡ Cyber Security and Hacking are my jam. @_localh0st on twitter
 
