@@ -12,7 +12,7 @@
 
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?nargaw=DenverCoder1)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/nargaw=DenverCoder1)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
