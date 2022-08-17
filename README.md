@@ -1,12 +1,12 @@
 ### Hi there! My name is Nate 👋
 
-🔭 I create 3D immersive web experiences and games
+🔭 Just a curious fellow on a quest to learn as much as I can about software. 
 
-🌱 I share one shader daily in my consistent effort to improve on GLSL. @shader_daily on twitter
+🌱 Currently Learning C and Assembly! 
 
 ⚡ Cyber Security and Hacking are my jam. @_localh0st on twitter
 
-😄 I’m interested in collaborating in 3D web development projects.
+😄 I’m interested in collaborating, connecting and making friends.
 
 📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
 
