@@ -1,6 +1,6 @@
 ### Hi there! My name is Nate 👋
 
-🔭 Just a curious fellow on a quest to learn as much as I can about software. 
+🔭 Just a curious dude on a quest to learn as much as I can about computers. 
 
 🌱 Currently Learning C and Assembly! 
 
