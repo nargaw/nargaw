@@ -1,14 +1,14 @@
 ### Hi there! My name is Nate 👋
 
-🔭 Just a curious dude on a quest to learn as much as I can about computers. 
+🔭 Just a curious person exploring the software rabbit hole. 
 
 🌱 Currently Learning C and Assembly! 
 
 ⚡ Cyber Security and Hacking are my jam. @_localh0st on twitter
 
-😄 I’m interested in collaborating, connecting and making friends.
+😄 Always interested in collaborating, connecting and making friends.
 
-📫 How to reach me: on twitter at @nate_dev_ or email me directly at nateargaw@gmail.com
+📫 How to reach me: twitter - @nate_dev_ or email - nateargaw@gmail.com
 
  
  
