@@ -1,14 +1,18 @@
 ### Hi there! My name is Nate 👋
 
-🔭 Just a curious person exploring the software rabbit hole. 
+🔭 Just a curious person exploring the rabbit hole of software. 
 
-🌱 Currently Learning C and Assembly! 
+🌱 Currently Learning C and Assembly!
 
-⚡ Cyber Security and Hacking are my jam. @_localh0st on twitter
+⚡ I make mini 3D games and experiences (web/game development). @nate_dev_ on twitter
+
+⚡ I enjoy working on my shader kung fu (graphics programming). @shader_daily on twitter
+
+⚡ I'm a hacker at heart (hacking/malware analysis). @_localH0st on twitter
 
 😄 Always interested in collaborating, connecting and making friends.
 
-📫 How to reach me: twitter - @nate_dev_ or email - nateargaw@gmail.com
+📫 How to reach me: email - nateargaw@gmail.com
 
  
  
