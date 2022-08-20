@@ -8,7 +8,7 @@
 
 ⚡ I enjoy working on my shader kung fu (graphics programming). @shader_daily on twitter
 
-⚡ I'm a hacker at heart (hacking/malware analysis). @_localH0st on twitter
+⚡ I'm a hacker at heart (reverse engineering/malware analysis). @_localH0st on twitter
 
 😄 Always interested in collaborating, connecting and making friends.
 
