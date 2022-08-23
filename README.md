@@ -1,6 +1,6 @@
 ### Hi there! My name is Nate 👋
 
-🔭 Just a curious person exploring the rabbit hole of software. 
+🔭 Just a curious person exploring the rabbit hole of computing. 
 
 🌱 Currently Learning C and Assembly!
 
