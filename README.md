@@ -4,11 +4,11 @@
 
 🌱 Currently Learning C and Assembly!
 
-⚡ I make mini 3D games and experiences (web/game development). @nate_dev_ on twitter
-
-⚡ I enjoy working on my shader kung fu (graphics programming). @shader_daily on twitter
-
 ⚡ I'm a hacker at heart (working towards --> reverse engineering). @_localH0st on twitter
+
+⚡ I make 3D games and experiences (web/game development). @nate_dev_ on twitter
+
+⚡ I enjoy working on shaders (graphics programming). @shader_daily on twitter
 
 😄 Always interested in collaborating, connecting and making friends.
 
