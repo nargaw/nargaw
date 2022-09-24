@@ -1,14 +1,12 @@
 ### Hi there! My name is Nate 👋
 
-🔭 Just a curious person exploring the rabbit hole of computing. 
-
-🌱 Currently Learning C and Assembly!
-
-⚡ I'm a hacker at heart (working towards --> reverse engineering). @_localH0st on twitter
-
-⚡ I make 3D games and experiences (web/game development). @nate_dev_ on twitter
+⚡ I make games and experiences on the web (web/game development). @nate_dev_ on twitter
 
 ⚡ I enjoy working on shaders (graphics programming). @shader_daily on twitter
+
+⚡ I'm a hacker at heart. @_localH0st on twitter
+
+🌱 Learning a little everyday!
 
 😄 Always interested in collaborating, connecting and making friends.
 
