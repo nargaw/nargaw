@@ -4,7 +4,7 @@
 
 ⚡ I enjoy working on shaders (graphics programming). @shader_daily on twitter
 
-⚡ I'm a hacker at heart (cyber security). @_localH0st on twitter
+⚡ I'm a hacker at heart (cyber security). @hacker_daily_ on twitter
 
 🌱 Learning a little everyday!
 
