@@ -1,10 +1,10 @@
 ### Hi there! My name is Nate 👋
 
-⚡ I make games and experiences on the web (web/game development). @nate_dev_ on twitter
+⚡ I love making 3D games and experiences on the web. @nate_dev_ on twitter
 
-⚡ I enjoy working on shaders (graphics programming). @shader_daily on twitter
+⚡ I enjoy making shaders. @shader_daily on twitter
 
-⚡ I'm a hacker at heart (cyber security). @hacker_daily_ on twitter
+⚡ I also enjoy making 3D models on Blender. @blender_daily_ on twitter
 
 🌱 Learning a little everyday!
 
