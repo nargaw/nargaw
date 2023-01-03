@@ -12,10 +12,6 @@
 
 📫 How to reach me: email - nateargaw@gmail.com
 
- 
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nargaw&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
