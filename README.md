@@ -6,6 +6,8 @@
 
 ⚡ I also enjoy making 3D models on Blender. @blender_daily_ on twitter
 
+⚡ I have interest in keeping the web a safe and secure place. @cyber_daily_ on twitter.
+
 🌱 Learning a little everyday!
 
 😄 Always interested in collaborating, connecting and making friends.
