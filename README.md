@@ -1,6 +1,6 @@
 ### Hi there! My name is Nate 👋
 
-⚡ Making 3D games and experiences on the web. @nate_dev_ on twitter
+⚡ Making 3D games and immersive experiences on the web. @nate_dev_ on twitter
 
 ⚡ Shader Art. @shader_daily on twitter
 
