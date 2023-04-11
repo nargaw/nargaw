@@ -1,14 +1,6 @@
 ### Hi there! My name is Nate 👋
 
-⚡ Making 3D games and immersive experiences on the web. @nate_dev_ on twitter
-
-⚡ Shader Art. @shader_daily on twitter
-
-⚡ Building 3D models on Blender. @blender_daily_ on twitter
-
-⚡ Working towards making the web a safe and secure place. @cyber_daily_ on twitter.
-
-🌱 Learning a little everyday!
+⚡ WebgGL + GLSL + Blender =>⚡3D games and immersive experiences. @nate_dev_ on twitter
 
 😄 Always interested in collaborating, connecting and making friends.
 
