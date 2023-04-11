@@ -1,10 +1,10 @@
 ### Hi there! My name is Nate 👋
 
-⚡ WebGL/WebGPU + GLSL + Blender =>⚡3D games and immersive web experiences!
+⚡ WebGL/WebGPU + GLSL + Blender =>⚡3D Games & Immersive Web Experiences!
 
-😄 Always interested in collaborating, connecting and making friends!
+😄 Interested in Collaborating, Connecting and Making Friends!
 
-📫 How to reach me: email - nateargaw@gmail.com
+📫 nateargaw@gmail.com
 
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
