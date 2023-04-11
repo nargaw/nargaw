@@ -1,8 +1,8 @@
 ### Hi there! My name is Nate 👋
 
-⚡ WebGL/WebGPU + GLSL + Blender =>⚡3D games and immersive web experiences. @nate_dev_ on twitter
+⚡ WebGL/WebGPU + GLSL + Blender =>⚡3D games and immersive web experiences!
 
-😄 Always interested in collaborating, connecting and making friends.
+😄 Always interested in collaborating, connecting and making friends!
 
 📫 How to reach me: email - nateargaw@gmail.com
 
