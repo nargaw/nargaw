@@ -2,7 +2,7 @@
 
 ⚡ WebGL/WebGPU + GLSL + Blender =>⚡3D Games & Immersive Web Experiences!
 
-😄 Interested in Collaborating, Connecting and Making Friends!
+😄 Let's collaborate, connect and be friends!
 
 📫 nateargaw@gmail.com
 
