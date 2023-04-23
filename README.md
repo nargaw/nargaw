@@ -1,6 +1,6 @@
 ### Hi there! My name is Nate 👋
 
-⚡ WebGL/(WebGPU...soon) + GLSL + Blender =>⚡3D Games & Immersive Web Experiences!
+⚡ WebGL + GLSL + Blender =>⚡3D Games & Immersive Web Experiences!
 
 😄 Let's collaborate, connect and be friends!
 
