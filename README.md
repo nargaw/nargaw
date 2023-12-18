@@ -4,7 +4,9 @@
 
 🌱 Daily Learning!
 
-😄 Let's collaborate, connect and be friends!
+💬 Ask me about Shaders, Physics Based Experiences and Hacking!
+
+😄 Open to collaborate!
 
 📫 nateargaw@gmail.com
 
