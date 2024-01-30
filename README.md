@@ -4,7 +4,7 @@
 
 🌱 Daily Learning!
 
-💬 Ask me about Shaders, 3D Web Development, Physics Based Experiences and Hacking!
+💬 Ask me about Shaders, 3D Web Development and Physics Based Experiences!
 
 😄 Open to collaborate!
 
