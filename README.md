@@ -2,7 +2,7 @@
 
 ⚡ Passionate about 3D Web!
 
-🌱 Daily Learning!
+🌱 Learning a little everyday!
 
 💬 Ask me about Shaders, 3D Web Development and Physics Based Experiences!
 
