@@ -1,8 +1,8 @@
 ### Hi there! My name is Nate 👋
 
-⚡ Passionate about 3D Web!
+⚡ Passionate Creative Developer
 
-🌱 Learning a little everyday!
+🌱 Learning a little everyday
 
 💬 Ask me about Shaders, 3D Web Development and Physics Based Experiences!
 
@@ -11,6 +11,7 @@
 📫 nateargaw@gmail.com
 
 https://www.nateargaw.io
+https://www.shaderdaily.com
 
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
