@@ -10,9 +10,9 @@
 
 📫 nateargaw@gmail.com
 
-https://www.nateargaw.io
+🔭 https://www.nateargaw.io
 
-https://www.shaderdaily.com
+✨ https://www.shaderdaily.com
 
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
