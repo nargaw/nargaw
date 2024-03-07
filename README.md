@@ -1,6 +1,6 @@
 ### Hi there! My name is Nate 👋
 
-⚡ Passionate Creative Developer
+⚡ Creative Technologist
 
 🌱 Learning a little everyday
 
