@@ -8,11 +8,13 @@
 
 😄 Open to collaborate!
 
-📫 nateargaw@gmail.com
+🎮 Play my game: https://www.balanc3dgame.com/
 
-🔭 https://www.nateargaw.io
+📫 Email me: nateargaw@gmail.com
 
-✨ https://www.shaderdaily.com
+🔭 Check out my personal website: https://www.nateargaw.io
+
+✨ Check out my shaders project: https://www.shaderdaily.com
 
 <!--
 **nargaw/nargaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
