@@ -4,7 +4,7 @@
 
 🌱 Learning a little everyday
 
-💬 Ask me about Shaders, 3D Web Development and Physics Based Experiences!
+💬 Ask me about Shaders, 3D Web Development and Cyber Security!
 
 😄 Open to collaborate!
 
